@@ -17,6 +17,7 @@ h1, h2 {
 
 .subscribe {
     color: #fb0404; 
+    background: white;
 }
 .dark-mode {
     background-color: #121212;
