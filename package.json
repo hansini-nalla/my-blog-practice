@@ -1,0 +1,19 @@
+{
+  "name": "my-blog-practice",
+  "version": "1.0.1",
+  "description": "this is a package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hansini-nalla/my-blog-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hansini-nalla/my-blog-practice/issues"
+  },
+  "homepage": "https://github.com/hansini-nalla/my-blog-practice#readme"
+}
